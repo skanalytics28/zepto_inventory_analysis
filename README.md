@@ -98,9 +98,9 @@ The dashboard provides an interactive view of inventory and pricing:
 This project demonstrates an end-to-end inventory data analytics workflow using SQL and Power BI to generate actionable insights on pricing, discounts, stock levels, and inventory value.  
 
 ## Credits
-- Inspiration for SQL - https://www.youtube.com/watch?v=x8dfQkKTyP0
 - Dataset: Kaggle - https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv  
 - Tools: PostgreSQL, Power BI
+- Inspiration for SQL - https://www.youtube.com/watch?v=x8dfQkKTyP0
 
 
 ## Credits
